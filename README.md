@@ -8,3 +8,4 @@ Course webpage is [here](https://weizhang.userpage.fu-berlin.de/teaching/2026-su
 | :--------------- | :--------------- | :--------------- | 
 | April 14, 2026   | [01_python_basic.ipynb](01_python_basic.ipynb) <br/> [01_python_numpy.ipynb](01_python_numpy.ipynb) <br/> [01_python_matplotlib.ipynb](01_python_matplotlib.ipynb) | basic python <br/> numpy <br/> plot using matplotlib |
 | April 21, 2026   | [02_ode.ipynb](02_ode.ipynb) | ODEs, Brownian motions |
+| April 28, 2026   | [03_sde.ipynb](03_sde.ipynb) <br/> [03_pytorch_intro_tensor.ipynb](03_pytorch_intro_tensor.ipynb) | SDEs <br/> PyTorch tensors|
