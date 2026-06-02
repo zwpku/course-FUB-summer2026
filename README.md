@@ -12,3 +12,4 @@ Course webpage is [here](https://weizhang.userpage.fu-berlin.de/teaching/2026-su
 | May 05, 2026   | [03_sde_sampling.ipynb](03_sde_sampling.ipynb) | sampling SDEs |
 | May 12, 2026   | [04_eigenvalue_finite_difference.ipynb](04_eigenvalue_finite_difference.ipynb) <br/> [datasets](datasets) | eigenvalues of generator by finite difference <br/> data sets|
 | May 26, 2026   | [05_committor_maze.ipynb](05_committor_maze.ipynb) | computing committor function on a graph |
+| June 02, 2026   | [06_eigenvalue_msm_and_nn.ipynb](06_eigenvalue_msm_and_nn.ipynb) | computing eigenvalue of semigroup using MSM and neural networks |
