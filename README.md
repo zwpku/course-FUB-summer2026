@@ -13,7 +13,4 @@ Course webpage is [here](https://weizhang.userpage.fu-berlin.de/teaching/2026-su
 | May 12, 2026   | [04_eigenvalue_finite_difference.ipynb](04_eigenvalue_finite_difference.ipynb) <br/> [datasets](datasets) | eigenvalues of generator by finite difference <br/> data sets|
 | May 26, 2026   | [05_committor_maze.ipynb](05_committor_maze.ipynb) | computing committor function on a graph |
 | June 02, 2026   | [06_eigenvalue_msm_and_nn.ipynb](06_eigenvalue_msm_and_nn.ipynb) | computing eigenvalue of semigroup using MSM and neural networks |
-| June 09, 2026   | [07_pytorch_autodiff.ipynb](07_pytorch_autodiff.ipynb) <br/> [07_feedforward_nn_training.ipynb](07_feedforward_nn_training.ipynb)   
-<br/> [07_classification_toy2d.ipynb](07_classification_toy2d.ipynb) <br/> [07_cnn_classification_mnist.ipynb](07_cnn_classification_mnist.ipynb) | 
-auto-differentiation, polynomial regression <br/> feedforward networks <br/> classification on 2D data <br/> classification on MNIST image data |
-
+| June 09, 2026   | [07_pytorch_autodiff.ipynb](07_pytorch_autodiff.ipynb) <br/> [07_feedforward_nn_training.ipynb](07_feedforward_nn_training.ipynb)  <br/> [07_classification_toy2d.ipynb](07_classification_toy2d.ipynb) <br/> [07_cnn_classification_mnist.ipynb](07_cnn_classification_mnist.ipynb) | auto-differentiation, poly. regression <br/> feedforward networks <br/> classification on 2D data <br/> classification on MNIST image data |
