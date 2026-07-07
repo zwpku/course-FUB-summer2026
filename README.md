@@ -17,3 +17,4 @@ Course webpage is [here](https://weizhang.userpage.fu-berlin.de/teaching/2026-su
 | June 16, 2026   | [08_kmeans.ipynb](08_kmeans.ipynb) <br/> [08_pca.ipynb](08_pca.ipynb)  <br/> [08_autoencoder_2d.ipynb](08_autoencoder_2d.ipynb) <br/> [08_autoencoder_MNIST.ipynb](08_autoencoder_MNIST.ipynb) | Kmeans <br/> PCA <br/> autoencoder on 2D data  <br/> autoencoder on MNIST image data |
 | June 23, 2026   | [09_flow_model_1d.ipynb](09_flow_model_1d.ipynb) | flow-matching on 1D data |
 | June 30, 2026   | [10_score_matching.ipynb](10_score_matching.ipynb) <br/> [10_score_based_diffusion_model_1d.ipynb](10_score_based_diffusion_model_1d.ipynb) | score estimation for Gaussian mixture <br/> score-based diffusion model on 1D data|
+| July 07, 2026   | [11_ddpm.ipynb](11_ddpm.ipynb) <br/> [11_normalizing_flows.ipynb](11_normalizing_flows.ipynb) | DDPM <br/> normalizing flows|
