@@ -18,3 +18,4 @@ Course webpage is [here](https://weizhang.userpage.fu-berlin.de/teaching/2026-su
 | June 23, 2026   | [09_flow_model_1d.ipynb](09_flow_model_1d.ipynb) | flow-matching on 1D data |
 | June 30, 2026   | [10_score_matching.ipynb](10_score_matching.ipynb) <br/> [10_score_based_diffusion_model_1d.ipynb](10_score_based_diffusion_model_1d.ipynb) | score estimation for Gaussian mixture <br/> score-based diffusion model on 1D data|
 | July 07, 2026   | [11_ddpm.ipynb](11_ddpm.ipynb) <br/> [11_normalizing_flows.ipynb](11_normalizing_flows.ipynb) | DDPM <br/> normalizing flows|
+| July 14, 2026   | [12_ConvNN.ipynb](12_ConvNN.ipynb) <br/> [12_transformer_pipeline.ipynb](12_transformer_pipeline.ipynb) | convolutional networks <br/> transformer pipeline |
